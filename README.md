@@ -168,7 +168,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Output
 
 
-Uploading Chat With pdf with history 2.mp4…
+
+https://github.com/user-attachments/assets/39964266-8bde-43fe-ae45-f8fd02e57185
+
+
+
 
 
 ---
